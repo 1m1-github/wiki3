@@ -39,6 +39,13 @@ this project would allow different types DIDs as they evolve.
 
 after the tech is implemented, an effort should be made to onboard various institutions. e.g. start with universities. given a university org chart, supply DIDs via the university email (also as mechanism of reissuance/cancelation). start with one high reputation university, which motivates other universities to follow. approach guilds. governments. etc.
 
+## tokenomics
+
+this is a public good. society should invest into this project for better functioning of itself. just like Wikipedia editors work for free.
+we can incentivize participation with tokens representing contributions, allowing users to be proud and show off.
+
+bounties for voting on specific information to be distributed to voters, regardless of vote, can be considered. the system staying unbiased is priority.
+
 ## UI
 
 - keep it simple
