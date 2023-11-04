@@ -4,13 +4,7 @@ winner of "BEST USE CASE OF POLYGON ID" @ ETHGLOBAL NYC 2023
 
 ## motivation
 
-given a statement S, we are going to define it's veracity (truth value) as any number between 0 and 1, 0 standing for totally false, 1 for totally true (fuzzy logic).
-
-the distinction between truth and falsehood is of highest importance in any decision making. concerns over the ability to distinguish true from false information are acknowledged by many (e.g. "fake news").
-
-### truth is social
-
-truth can be defined as anything that follows via logic from some set of axioms. since ultimately these axioms are socially defined, all truth can be called social.
+the distinction between truth and falsehood (veracity) is of highest importance in any decision making. concerns over the ability to distinguish true from false information are acknowledged by many (e.g. "fake news").
 
 ### truth as reliable knowledge
 
@@ -18,19 +12,19 @@ an approximation to truth can be given as the reliability of the knowledge/infor
 
 ### wikipedia
 
-human society keeps reliable knowledge in so called "white papers". white papers are summarized in encyclopedias. the best, but definitely not perfect, encyclopedia in current existence is called wikipedia.
+human society keeps reliable knowledge in so called "white papers". white papers are summarized in encyclopedias. the best, but definitely not perfect, encyclopedia in current existence is wikipedia.
 
 ### web3
 
-the goal of this project is to bring true information to web3. actually, this project allows for the transparent and decentralized measurement and display (searchability) of the veracity of any information.
+the goal of this project is to measure veracity of information transparently and democratically on web3.
 
 ## how does it work?
 
-given any information, allow people to vote/record the veracity of this information on a DLT (distributed ledger), as believed by this person.
+given any information, allow people to vote the veracity of this information on a DLT (distributed ledger), as believed by this person. connect that vote to all DIDs disclosed by the voter.
 
-each person has a set of identities connected to it. e.g. a person might be a father and a biologist and a resident of NYC and a citizen of the US and a member of some political party and part of some professional guild and ... etc.
+e.g. a person might be a father and a biologist and a resident of NYC and a citizen of the US and a member of some political party and part of some professional guild and an alum of some uni and ... etc.
 
-we can now check, on a frontend, what the average veracity of a given information is considering a filter on identities.
+we can now check, on a frontend, what the average veracity of a given information is filtered any combination of  identities.
 e.g.
 "how do professional biologists rate the veracity of Darwin's original paper?"
 "how do residents of my city rate the veracity of <some specific tweet>?"
