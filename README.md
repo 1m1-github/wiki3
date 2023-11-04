@@ -1,4 +1,4 @@
-# wiki3 - wikipedia on web3 - the truth on web3
+# wiki3 - wikipedia on web3 - socially defined truth
 
 winner of "BEST USE CASE OF POLYGON ID" @ ETHGLOBAL NYC 2023
 
